@@ -1,0 +1,11 @@
+name = CEU Profile Displays
+description = Provide a view for Profile CTs
+core = 7.x
+package = CEU
+php = 5.2.4
+version = 7.x-1.0-dev
+project = ceu_profile_displays
+dependencies[] = ctools
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1

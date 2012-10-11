@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CEU Profile Displays feature.
+ */
+
+include_once 'ceu_profile_displays.features.inc';
